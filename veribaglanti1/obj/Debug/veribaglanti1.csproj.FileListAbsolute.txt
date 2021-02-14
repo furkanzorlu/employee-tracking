@@ -1,0 +1,10 @@
+C:\Users\HP\Downloads\veribaglanti\veribaglanti1\veribaglanti1\bin\Debug\veribaglanti1.exe.config
+C:\Users\HP\Downloads\veribaglanti\veribaglanti1\veribaglanti1\bin\Debug\veribaglanti1.exe
+C:\Users\HP\Downloads\veribaglanti\veribaglanti1\veribaglanti1\bin\Debug\veribaglanti1.pdb
+C:\Users\HP\Downloads\veribaglanti\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\veribaglanti\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.Form1.resources
+C:\Users\HP\Downloads\veribaglanti\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.Properties.Resources.resources
+C:\Users\HP\Downloads\veribaglanti\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\veribaglanti\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\veribaglanti\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.exe
+C:\Users\HP\Downloads\veribaglanti\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.pdb
